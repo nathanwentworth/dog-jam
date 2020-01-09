@@ -5,10 +5,22 @@ using UnityEngine;
 public class GameManager : MonoBehaviour
 {
 
-    public float TotalHeldTime { private get; set; }
+
+    private float totalHeldTime;
+    public float TotalHeldTime {
+        get { return totalHeldTime; }
+        private set {
+            totalHeldTime = value;
+            UpdateHud();
+        }
+    }
     // Start is called before the first frame update
     void Start()
     {
+
+    }
+
+    void UpdateHud() {
 
     }
 
