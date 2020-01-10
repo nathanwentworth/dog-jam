@@ -1,0 +1,171 @@
+﻿{"frames": {
+
+"BigBoy Idle0000":
+{
+	"frame": {"x":0,"y":0,"w":1644,"h":1589},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":1770,"h":1589},
+	"sourceSize": {"w":1770,"h":1589}
+},
+"BigBoy Idle0001":
+{
+	"frame": {"x":1644,"y":0,"w":1644,"h":1589},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":1770,"h":1589},
+	"sourceSize": {"w":1770,"h":1589}
+},
+"BigBoy Idle0002":
+{
+	"frame": {"x":3288,"y":0,"w":1644,"h":1589},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":1770,"h":1589},
+	"sourceSize": {"w":1770,"h":1589}
+},
+"BigBoy Idle0003":
+{
+	"frame": {"x":4932,"y":0,"w":1652,"h":1589},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":1770,"h":1589},
+	"sourceSize": {"w":1770,"h":1589}
+},
+"BigBoy Idle0004":
+{
+	"frame": {"x":0,"y":1589,"w":1652,"h":1589},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":1770,"h":1589},
+	"sourceSize": {"w":1770,"h":1589}
+},
+"BigBoy Idle0005":
+{
+	"frame": {"x":1652,"y":1589,"w":1651,"h":1589},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":1770,"h":1589},
+	"sourceSize": {"w":1770,"h":1589}
+},
+"BigBoy Idle0006":
+{
+	"frame": {"x":3303,"y":1589,"w":1651,"h":1589},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":1770,"h":1589},
+	"sourceSize": {"w":1770,"h":1589}
+},
+"BigBoy Idle0007":
+{
+	"frame": {"x":4954,"y":1589,"w":1652,"h":1589},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":1770,"h":1589},
+	"sourceSize": {"w":1770,"h":1589}
+},
+"BigBoy Idle0008":
+{
+	"frame": {"x":0,"y":3178,"w":1652,"h":1589},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":1770,"h":1589},
+	"sourceSize": {"w":1770,"h":1589}
+},
+"BigBoy Idle0009":
+{
+	"frame": {"x":1652,"y":3178,"w":1644,"h":1589},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":1770,"h":1589},
+	"sourceSize": {"w":1770,"h":1589}
+},
+"BigBoy Idle0010":
+{
+	"frame": {"x":3296,"y":3178,"w":1644,"h":1589},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":1770,"h":1589},
+	"sourceSize": {"w":1770,"h":1589}
+},
+"BigBoy Idle0011":
+{
+	"frame": {"x":4940,"y":3178,"w":1644,"h":1589},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":1770,"h":1589},
+	"sourceSize": {"w":1770,"h":1589}
+},
+"BigBoy Idle0012":
+{
+	"frame": {"x":0,"y":4767,"w":1727,"h":1589},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":1770,"h":1589},
+	"sourceSize": {"w":1770,"h":1589}
+},
+"BigBoy Idle0013":
+{
+	"frame": {"x":1727,"y":4767,"w":1727,"h":1589},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":1770,"h":1589},
+	"sourceSize": {"w":1770,"h":1589}
+},
+"BigBoy Idle0014":
+{
+	"frame": {"x":3454,"y":4767,"w":1770,"h":1589},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":1770,"h":1589},
+	"sourceSize": {"w":1770,"h":1589}
+},
+"BigBoy Idle0015":
+{
+	"frame": {"x":5224,"y":4767,"w":1770,"h":1589},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":1770,"h":1589},
+	"sourceSize": {"w":1770,"h":1589}
+},
+"BigBoy Idle0016":
+{
+	"frame": {"x":0,"y":6356,"w":1727,"h":1589},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":1770,"h":1589},
+	"sourceSize": {"w":1770,"h":1589}
+},
+"BigBoy Idle0017":
+{
+	"frame": {"x":1727,"y":6356,"w":1727,"h":1589},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":1770,"h":1589},
+	"sourceSize": {"w":1770,"h":1589}
+},
+"BigBoy Idle0018":
+{
+	"frame": {"x":3454,"y":6356,"w":1644,"h":1589},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":1770,"h":1589},
+	"sourceSize": {"w":1770,"h":1589}
+},
+"BigBoy Idle0019":
+{
+	"frame": {"x":5098,"y":6356,"w":1644,"h":1589},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":1770,"h":1589},
+	"sourceSize": {"w":1770,"h":1589}
+}},
+"meta": {
+	"app": "Adobe Animate",
+	"version": "20.0.1.19255",
+	"image": "BigBoyAnim-Idle.png",
+	"format": "RGBA8888",
+	"size": {"w":8192,"h":8192},
+	"scale": "1"
+}
+}
