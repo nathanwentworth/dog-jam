@@ -7,6 +7,11 @@ public class DogController : MonoBehaviour
 
     float timeHeld = 0f;
     bool mouseDown = false;
+    Animator animator;
+
+    void Start() {
+        animator = GetComponent<Animator>();
+    }
     void Update() {
 
     }
@@ -20,6 +25,7 @@ public class DogController : MonoBehaviour
     /// </summary>
     void OnMouseUp() {
         mouseDown = false;
+        animator.SetBool("beingPet", false);
     }
 
     /// <summary>
@@ -29,6 +35,7 @@ public class DogController : MonoBehaviour
     void OnMouseOver() {
         if (mouseDown) {
             timeHeld += Time.deltaTime;
+            animator.SetBool("beingPet", true);
             Debug.Log("oh we draggin' " + timeHeld);
         }
     }
@@ -37,7 +44,8 @@ public class DogController : MonoBehaviour
     /// Called when the mouse is not any longer over the GUIElement or Collider.
     /// </summary>
     void OnMouseExit() {
-        // maybe we won't need this? currently will disable the dragging when it leaves the collider. dunno if that will feel great of if it'll be too unforgiving
+    // maybe we won't need this? currently will disable the dragging when it leaves the collider. dunno if that will feel great of if it'll be too unforgiving
+        animator.SetBool("beingPet", false);
         mouseDown = false;
     }
 }
