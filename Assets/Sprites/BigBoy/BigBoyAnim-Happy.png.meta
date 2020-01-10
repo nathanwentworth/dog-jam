@@ -1,7 +1,31 @@
 fileFormatVersion: 2
 guid: 528a0eea3f0660964aa37c43131a6582
 TextureImporter:
-  internalIDToNameTable: []
+  internalIDToNameTable:
+  - first:
+      213: -9210055888007584680
+    second: BigBoyAnim-Happy_0
+  - first:
+      213: -3270043782618947060
+    second: BigBoyAnim-Happy_1
+  - first:
+      213: -7998266361648847012
+    second: BigBoyAnim-Happy_2
+  - first:
+      213: 689701402973293440
+    second: BigBoyAnim-Happy_3
+  - first:
+      213: -3101201885629329313
+    second: BigBoyAnim-Happy_4
+  - first:
+      213: -5284091438933012696
+    second: BigBoyAnim-Happy_5
+  - first:
+      213: 8268548550592888007
+    second: BigBoyAnim-Happy_6
+  - first:
+      213: -2220072740658204378
+    second: BigBoyAnim-Happy_7
   externalObjects: {}
   serializedVersion: 10
   mipmaps:
@@ -40,14 +64,14 @@ TextureImporter:
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 1
+  spriteMode: 2
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 100
+  spritePixelsToUnits: 500
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
-  spriteGenerateFallbackPhysicsShape: 1
+  spriteGenerateFallbackPhysicsShape: 0
   alphaUsage: 1
   alphaIsTransparency: 1
   spriteTessellationDetail: -1
@@ -70,9 +94,201 @@ TextureImporter:
     overridden: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
-    sprites: []
+    sprites:
+    - serializedVersion: 2
+      name: BigBoyAnim-Happy_0
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 2491
+        width: 1648
+        height: 1599
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd906b653f7a1b9dfa16de33421121df
+      internalID: -9210055888007584680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BigBoyAnim-Happy_1
+      rect:
+        serializedVersion: 2
+        x: 1666
+        y: 2491
+        width: 1628
+        height: 1599
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a70c0b1505b6df49814a671139ec9a7
+      internalID: -3270043782618947060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BigBoyAnim-Happy_2
+      rect:
+        serializedVersion: 2
+        x: 3326
+        y: 2482
+        width: 1603
+        height: 1600
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8096d10f23725bf581037ebb12ab332
+      internalID: -7998266361648847012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BigBoyAnim-Happy_3
+      rect:
+        serializedVersion: 2
+        x: 4974
+        y: 2491
+        width: 1632
+        height: 1599
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90c0cd696fedf7ef5979628d0fdd3f62
+      internalID: 689701402973293440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BigBoyAnim-Happy_4
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 882
+        width: 1656
+        height: 1600
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36129305cfdc1b0508267ccb57433640
+      internalID: -3101201885629329313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BigBoyAnim-Happy_5
+      rect:
+        serializedVersion: 2
+        x: 1706
+        y: 882
+        width: 1660
+        height: 1600
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3af38cd9bcfd8c340906a94cae42749d
+      internalID: -5284091438933012696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BigBoyAnim-Happy_6
+      rect:
+        serializedVersion: 2
+        x: 3472
+        y: 882
+        width: 1654
+        height: 1600
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64d2ea50fbc9d900c92e41710a4f497f
+      internalID: 8268548550592888007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BigBoyAnim-Happy_7
+      rect:
+        serializedVersion: 2
+        x: 5274
+        y: 882
+        width: 1660
+        height: 1600
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 903342386bf30bf6e92320fda2ce36f8
+      internalID: -2220072740658204378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     physicsShape: []
     bones: []
