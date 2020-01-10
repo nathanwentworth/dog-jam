@@ -2,7 +2,7 @@
 
 "BigBoy Idle0000":
 {
-	"frame": {"x":0,"y":0,"w":1644,"h":1589},
+	"frame": {"x":10,"y":10,"w":1644,"h":1589},
 	"rotated": false,
 	"trimmed": true,
 	"spriteSourceSize": {"x":0,"y":0,"w":1770,"h":1589},
@@ -10,7 +10,7 @@
 },
 "BigBoy Idle0001":
 {
-	"frame": {"x":1644,"y":0,"w":1644,"h":1589},
+	"frame": {"x":1664,"y":10,"w":1644,"h":1589},
 	"rotated": false,
 	"trimmed": true,
 	"spriteSourceSize": {"x":0,"y":0,"w":1770,"h":1589},
@@ -18,7 +18,7 @@
 },
 "BigBoy Idle0002":
 {
-	"frame": {"x":3288,"y":0,"w":1644,"h":1589},
+	"frame": {"x":3318,"y":10,"w":1644,"h":1589},
 	"rotated": false,
 	"trimmed": true,
 	"spriteSourceSize": {"x":0,"y":0,"w":1770,"h":1589},
@@ -26,7 +26,7 @@
 },
 "BigBoy Idle0003":
 {
-	"frame": {"x":4932,"y":0,"w":1652,"h":1589},
+	"frame": {"x":4972,"y":10,"w":1652,"h":1589},
 	"rotated": false,
 	"trimmed": true,
 	"spriteSourceSize": {"x":0,"y":0,"w":1770,"h":1589},
@@ -34,7 +34,7 @@
 },
 "BigBoy Idle0004":
 {
-	"frame": {"x":0,"y":1589,"w":1652,"h":1589},
+	"frame": {"x":10,"y":1609,"w":1652,"h":1589},
 	"rotated": false,
 	"trimmed": true,
 	"spriteSourceSize": {"x":0,"y":0,"w":1770,"h":1589},
@@ -42,7 +42,7 @@
 },
 "BigBoy Idle0005":
 {
-	"frame": {"x":1652,"y":1589,"w":1651,"h":1589},
+	"frame": {"x":1672,"y":1609,"w":1651,"h":1589},
 	"rotated": false,
 	"trimmed": true,
 	"spriteSourceSize": {"x":0,"y":0,"w":1770,"h":1589},
@@ -50,7 +50,7 @@
 },
 "BigBoy Idle0006":
 {
-	"frame": {"x":3303,"y":1589,"w":1651,"h":1589},
+	"frame": {"x":3333,"y":1609,"w":1651,"h":1589},
 	"rotated": false,
 	"trimmed": true,
 	"spriteSourceSize": {"x":0,"y":0,"w":1770,"h":1589},
@@ -58,7 +58,7 @@
 },
 "BigBoy Idle0007":
 {
-	"frame": {"x":4954,"y":1589,"w":1652,"h":1589},
+	"frame": {"x":4994,"y":1609,"w":1652,"h":1589},
 	"rotated": false,
 	"trimmed": true,
 	"spriteSourceSize": {"x":0,"y":0,"w":1770,"h":1589},
@@ -66,7 +66,7 @@
 },
 "BigBoy Idle0008":
 {
-	"frame": {"x":0,"y":3178,"w":1652,"h":1589},
+	"frame": {"x":10,"y":3208,"w":1652,"h":1589},
 	"rotated": false,
 	"trimmed": true,
 	"spriteSourceSize": {"x":0,"y":0,"w":1770,"h":1589},
@@ -74,7 +74,7 @@
 },
 "BigBoy Idle0009":
 {
-	"frame": {"x":1652,"y":3178,"w":1644,"h":1589},
+	"frame": {"x":1672,"y":3208,"w":1644,"h":1589},
 	"rotated": false,
 	"trimmed": true,
 	"spriteSourceSize": {"x":0,"y":0,"w":1770,"h":1589},
@@ -82,7 +82,7 @@
 },
 "BigBoy Idle0010":
 {
-	"frame": {"x":3296,"y":3178,"w":1644,"h":1589},
+	"frame": {"x":3326,"y":3208,"w":1644,"h":1589},
 	"rotated": false,
 	"trimmed": true,
 	"spriteSourceSize": {"x":0,"y":0,"w":1770,"h":1589},
@@ -90,7 +90,7 @@
 },
 "BigBoy Idle0011":
 {
-	"frame": {"x":4940,"y":3178,"w":1644,"h":1589},
+	"frame": {"x":4980,"y":3208,"w":1644,"h":1589},
 	"rotated": false,
 	"trimmed": true,
 	"spriteSourceSize": {"x":0,"y":0,"w":1770,"h":1589},
@@ -98,7 +98,7 @@
 },
 "BigBoy Idle0012":
 {
-	"frame": {"x":0,"y":4767,"w":1727,"h":1589},
+	"frame": {"x":10,"y":4807,"w":1727,"h":1589},
 	"rotated": false,
 	"trimmed": true,
 	"spriteSourceSize": {"x":0,"y":0,"w":1770,"h":1589},
@@ -106,7 +106,7 @@
 },
 "BigBoy Idle0013":
 {
-	"frame": {"x":1727,"y":4767,"w":1727,"h":1589},
+	"frame": {"x":1747,"y":4807,"w":1727,"h":1589},
 	"rotated": false,
 	"trimmed": true,
 	"spriteSourceSize": {"x":0,"y":0,"w":1770,"h":1589},
@@ -114,7 +114,7 @@
 },
 "BigBoy Idle0014":
 {
-	"frame": {"x":3454,"y":4767,"w":1770,"h":1589},
+	"frame": {"x":3484,"y":4807,"w":1770,"h":1589},
 	"rotated": false,
 	"trimmed": false,
 	"spriteSourceSize": {"x":0,"y":0,"w":1770,"h":1589},
@@ -122,7 +122,7 @@
 },
 "BigBoy Idle0015":
 {
-	"frame": {"x":5224,"y":4767,"w":1770,"h":1589},
+	"frame": {"x":5264,"y":4807,"w":1770,"h":1589},
 	"rotated": false,
 	"trimmed": false,
 	"spriteSourceSize": {"x":0,"y":0,"w":1770,"h":1589},
@@ -130,7 +130,7 @@
 },
 "BigBoy Idle0016":
 {
-	"frame": {"x":0,"y":6356,"w":1727,"h":1589},
+	"frame": {"x":10,"y":6406,"w":1727,"h":1589},
 	"rotated": false,
 	"trimmed": true,
 	"spriteSourceSize": {"x":0,"y":0,"w":1770,"h":1589},
@@ -138,7 +138,7 @@
 },
 "BigBoy Idle0017":
 {
-	"frame": {"x":1727,"y":6356,"w":1727,"h":1589},
+	"frame": {"x":1747,"y":6406,"w":1727,"h":1589},
 	"rotated": false,
 	"trimmed": true,
 	"spriteSourceSize": {"x":0,"y":0,"w":1770,"h":1589},
@@ -146,7 +146,7 @@
 },
 "BigBoy Idle0018":
 {
-	"frame": {"x":3454,"y":6356,"w":1644,"h":1589},
+	"frame": {"x":3484,"y":6406,"w":1644,"h":1589},
 	"rotated": false,
 	"trimmed": true,
 	"spriteSourceSize": {"x":0,"y":0,"w":1770,"h":1589},
@@ -154,7 +154,7 @@
 },
 "BigBoy Idle0019":
 {
-	"frame": {"x":5098,"y":6356,"w":1644,"h":1589},
+	"frame": {"x":5138,"y":6406,"w":1644,"h":1589},
 	"rotated": false,
 	"trimmed": true,
 	"spriteSourceSize": {"x":0,"y":0,"w":1770,"h":1589},
