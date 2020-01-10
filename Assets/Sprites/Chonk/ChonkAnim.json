@@ -1,0 +1,139 @@
+﻿{"frames": {
+
+"Chonk-Idle0000":
+{
+	"frame": {"x":10,"y":10,"w":1501,"h":1355},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":1585,"h":1355},
+	"sourceSize": {"w":1585,"h":1355}
+},
+"Chonk-Idle0001":
+{
+	"frame": {"x":1521,"y":10,"w":1514,"h":1355},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":1585,"h":1355},
+	"sourceSize": {"w":1585,"h":1355}
+},
+"Chonk-Idle0002":
+{
+	"frame": {"x":3045,"y":10,"w":1512,"h":1355},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":1585,"h":1355},
+	"sourceSize": {"w":1585,"h":1355}
+},
+"Chonk-Idle0003":
+{
+	"frame": {"x":4567,"y":10,"w":1512,"h":1355},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":1585,"h":1355},
+	"sourceSize": {"w":1585,"h":1355}
+},
+"Chonk-Idle0004":
+{
+	"frame": {"x":6089,"y":10,"w":1558,"h":1355},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":1585,"h":1355},
+	"sourceSize": {"w":1585,"h":1355}
+},
+"Chonk-Idle0005":
+{
+	"frame": {"x":10,"y":1375,"w":1585,"h":1355},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":1585,"h":1355},
+	"sourceSize": {"w":1585,"h":1355}
+},
+"Chonk-Idle0006":
+{
+	"frame": {"x":1605,"y":1375,"w":1558,"h":1355},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":1585,"h":1355},
+	"sourceSize": {"w":1585,"h":1355}
+},
+"Chonk-Idle0007":
+{
+	"frame": {"x":3173,"y":1375,"w":1558,"h":1355},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":1585,"h":1355},
+	"sourceSize": {"w":1585,"h":1355}
+},
+"Chonk-Idle0008":
+{
+	"frame": {"x":4741,"y":1375,"w":1501,"h":1355},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":1585,"h":1355},
+	"sourceSize": {"w":1585,"h":1355}
+},
+"Chonk-Idle0009":
+{
+	"frame": {"x":6252,"y":1375,"w":1514,"h":1355},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":1585,"h":1355},
+	"sourceSize": {"w":1585,"h":1355}
+},
+"Chonk-Idle0010":
+{
+	"frame": {"x":10,"y":2740,"w":1512,"h":1355},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":1585,"h":1355},
+	"sourceSize": {"w":1585,"h":1355}
+},
+"Chonk-Idle0011":
+{
+	"frame": {"x":1532,"y":2740,"w":1512,"h":1355},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":1585,"h":1355},
+	"sourceSize": {"w":1585,"h":1355}
+},
+"Chonk-Idle0012":
+{
+	"frame": {"x":3054,"y":2740,"w":1558,"h":1355},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":1585,"h":1355},
+	"sourceSize": {"w":1585,"h":1355}
+},
+"Chonk-Idle0013":
+{
+	"frame": {"x":4622,"y":2740,"w":1585,"h":1355},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":1585,"h":1355},
+	"sourceSize": {"w":1585,"h":1355}
+},
+"Chonk-Idle0014":
+{
+	"frame": {"x":6217,"y":2740,"w":1558,"h":1355},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":1585,"h":1355},
+	"sourceSize": {"w":1585,"h":1355}
+},
+"Chonk-Idle0015":
+{
+	"frame": {"x":10,"y":4105,"w":1558,"h":1355},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":1585,"h":1355},
+	"sourceSize": {"w":1585,"h":1355}
+}},
+"meta": {
+	"app": "Adobe Animate",
+	"version": "20.0.1.19255",
+	"image": "ChonkAnim.png",
+	"format": "RGBA8888",
+	"size": {"w":8192,"h":8192},
+	"scale": "1"
+}
+}
