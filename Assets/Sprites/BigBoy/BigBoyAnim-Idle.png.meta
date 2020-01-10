@@ -105,7 +105,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 100
+  spritePixelsToUnits: 500
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -161,18 +161,18 @@ TextureImporter:
       name: BigBoyAnim-Idle_0
       rect:
         serializedVersion: 2
-        x: 0
-        y: 3424
-        width: 1638
-        height: 1594
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 6
+        y: 6587
+        width: 1652
+        height: 1599
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: a07c3f765dd531cf4a5b2db0c7999b66
+      spriteID: db0aa4ab05ec69ac3a11e9fc0ad403aa
       internalID: 5914052778601943962
       vertices: []
       indices: 
@@ -182,18 +182,18 @@ TextureImporter:
       name: BigBoyAnim-Idle_1
       rect:
         serializedVersion: 2
-        x: 0
-        y: 5011
-        width: 1638
-        height: 1594
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 1658
+        y: 6587
+        width: 1656
+        height: 1599
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 639cb8f97e2d019f4b127f76fc62f2dc
+      spriteID: 31f50954fbdf80934b4e0260d94f55e2
       internalID: 8488481456187174631
       vertices: []
       indices: 
@@ -203,18 +203,18 @@ TextureImporter:
       name: BigBoyAnim-Idle_2
       rect:
         serializedVersion: 2
-        x: 0
-        y: 6605
-        width: 1650
-        height: 1587
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 3314
+        y: 6587
+        width: 1652
+        height: 1599
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 5248c2c0da8e4d372a994fdad4bc9591
+      spriteID: 38e5af9e603a1679a90f566975f05171
       internalID: 5263290997910319184
       vertices: []
       indices: 
@@ -224,18 +224,18 @@ TextureImporter:
       name: BigBoyAnim-Idle_3
       rect:
         serializedVersion: 2
-        x: 1638
-        y: 6604
-        width: 1652
-        height: 1588
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 4966
+        y: 6587
+        width: 1640
+        height: 1599
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: fe96c3175e67975a1a4df4ca6c16b9b7
+      spriteID: 075402c216aa3c6b3897f9f0090af40b
       internalID: 4296245060825145339
       vertices: []
       indices: 
@@ -245,18 +245,18 @@ TextureImporter:
       name: BigBoyAnim-Idle_4
       rect:
         serializedVersion: 2
-        x: 1646
-        y: 3424
-        width: 1656
-        height: 1593
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 6
+        y: 4990
+        width: 1640
+        height: 1596
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: b4c0a79efd18ad78997a2e5527967d5f
+      spriteID: c287a6e922951553aad66f1c4ee107c0
       internalID: -4105625720329219009
       vertices: []
       indices: 
@@ -266,18 +266,18 @@ TextureImporter:
       name: BigBoyAnim-Idle_5
       rect:
         serializedVersion: 2
-        x: 1646
-        y: 5010
+        x: 1666
+        y: 4990
         width: 1632
-        height: 1594
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        height: 1596
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 7db36fccfef817f97bb29efd1455b319
+      spriteID: e5ca611c715613e768acedc07c275d08
       internalID: 1142092483152674727
       vertices: []
       indices: 
@@ -287,18 +287,18 @@ TextureImporter:
       name: BigBoyAnim-Idle_6
       rect:
         serializedVersion: 2
-        x: 3282
-        y: 6603
-        width: 1652
-        height: 1589
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 3330
+        y: 4990
+        width: 1628
+        height: 1596
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 23cee6ce7a8037ffda435596bd5ff822
+      spriteID: fda45d4ff8099310490e94bf036f120d
       internalID: 5667206071227233225
       vertices: []
       indices: 
@@ -308,18 +308,18 @@ TextureImporter:
       name: BigBoyAnim-Idle_7
       rect:
         serializedVersion: 2
-        x: 3290
-        y: 3424
-        width: 1656
-        height: 1594
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 4990
+        y: 4990
+        width: 1640
+        height: 1596
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 4c28b19b0739a4ed886287e113924034
+      spriteID: 95ddcfe81e99c83448e9777fca668382
       internalID: 4501332425401047879
       vertices: []
       indices: 
@@ -329,18 +329,18 @@ TextureImporter:
       name: BigBoyAnim-Idle_8
       rect:
         serializedVersion: 2
-        x: 3298
-        y: 5010
-        width: 1632
-        height: 1593
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 6
+        y: 3390
+        width: 1640
+        height: 1600
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 73e8c662998473ca1b370a375919f811
+      spriteID: 7e066404f9ab227618f8eec26f18807c
       internalID: 6715785262102996725
       vertices: []
       indices: 
@@ -350,18 +350,18 @@ TextureImporter:
       name: BigBoyAnim-Idle_9
       rect:
         serializedVersion: 2
-        x: 4926
-        y: 6604
-        width: 1641
-        height: 1588
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 1666
+        y: 3390
+        width: 1652
+        height: 1600
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 5a8b0d356c145b54ab98ef539e5b0985
+      spriteID: 8a08a34b2f22eb6c3ad267e9a6802fd1
       internalID: 7888466630072470235
       vertices: []
       indices: 
@@ -371,18 +371,18 @@ TextureImporter:
       name: BigBoyAnim-Idle_10
       rect:
         serializedVersion: 2
-        x: 4934
-        y: 3424
+        x: 3322
+        y: 3390
         width: 1652
-        height: 1587
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        height: 1600
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: ecb335e83b0e70160b40770aa22d59d7
+      spriteID: cb4fdad7940e33a4991c1056bc42d38e
       internalID: 5635622529588173484
       vertices: []
       indices: 
@@ -392,18 +392,18 @@ TextureImporter:
       name: BigBoyAnim-Idle_11
       rect:
         serializedVersion: 2
-        x: 4950
-        y: 5010
-        width: 1640
-        height: 1596
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 4975
+        y: 3390
+        width: 1655
+        height: 1600
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: d1b1f0a679c635439a8bd1c228b3acff
+      spriteID: 465272af1c3a3cf29a4a3a44a4bc9b54
       internalID: -3493171059747525948
       vertices: []
       indices: 
@@ -413,18 +413,18 @@ TextureImporter:
       name: BigBoyAnim-Idle_12
       rect:
         serializedVersion: 2
-        x: 0
-        y: 248
-        width: 1654
-        height: 1588
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 6
+        y: 1790
+        width: 1656
+        height: 1600
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 5900f0de77ef7924cbede8384a3f63d2
+      spriteID: c9ac676883ca994bea6d04de753b8266
       internalID: 3949068081260900274
       vertices: []
       indices: 
@@ -434,18 +434,18 @@ TextureImporter:
       name: BigBoyAnim-Idle_13
       rect:
         serializedVersion: 2
-        x: 0
-        y: 1837
-        width: 1654
-        height: 1587
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 1742
+        y: 1790
+        width: 1656
+        height: 1600
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: f3558a8bb1061354fbb29b0bf95488a2
+      spriteID: 427ba3657b92bbf288b71a4c00ad037e
       internalID: 5091453410935603334
       vertices: []
       indices: 
@@ -455,18 +455,18 @@ TextureImporter:
       name: BigBoyAnim-Idle_14
       rect:
         serializedVersion: 2
-        x: 1722
-        y: 248
-        width: 1660
-        height: 1589
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 3478
+        y: 1790
+        width: 1656
+        height: 1600
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: c5ce370d1ff7c8e1c8943176ccc5fdf0
+      spriteID: 552d03465f9b032908fe08d5a2ed10c3
       internalID: 4853994234811993960
       vertices: []
       indices: 
@@ -476,18 +476,18 @@ TextureImporter:
       name: BigBoyAnim-Idle_15
       rect:
         serializedVersion: 2
-        x: 1722
-        y: 1837
-        width: 1660
-        height: 1587
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 5258
+        y: 1790
+        width: 1659
+        height: 1600
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 7604180417ccf8d35a9b920c014a5e53
+      spriteID: 581014ed9a4f9a9c3b8f90396f49bc1a
       internalID: 9063197868029757358
       vertices: []
       indices: 
@@ -497,18 +497,18 @@ TextureImporter:
       name: BigBoyAnim-Idle_16
       rect:
         serializedVersion: 2
-        x: 3450
-        y: 245
-        width: 1652
-        height: 1592
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 6
+        y: 194
+        width: 1656
+        height: 1596
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 3b85d2f736ff28c378f89e1be887439a
+      spriteID: 364e0577c9a5ad1f4bceecd2f91af50d
       internalID: 5953448174117666472
       vertices: []
       indices: 
@@ -518,18 +518,18 @@ TextureImporter:
       name: BigBoyAnim-Idle_17
       rect:
         serializedVersion: 2
-        x: 3450
-        y: 1836
-        width: 1653
-        height: 1588
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 1742
+        y: 191
+        width: 1656
+        height: 1599
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: bd549ccb6cccb97958cf3fa6dd909006
+      spriteID: b043cd0263481f300b1620956106c747
       internalID: 8697318114622138068
       vertices: []
       indices: 
@@ -539,18 +539,18 @@ TextureImporter:
       name: BigBoyAnim-Idle_18
       rect:
         serializedVersion: 2
-        x: 5094
-        y: 1838
-        width: 1782
-        height: 1586
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 3478
+        y: 194
+        width: 1652
+        height: 1596
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: a9f7816936c6cafd780ba4a223315220
+      spriteID: efe71c5b44c8e9a368769d07bd5c237e
       internalID: -8619119866580861809
       vertices: []
       indices: 
@@ -560,18 +560,18 @@ TextureImporter:
       name: BigBoyAnim-Idle_19
       rect:
         serializedVersion: 2
-        x: 5101
-        y: 247
-        width: 1644
-        height: 1588
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 5134
+        y: 192
+        width: 1652
+        height: 1598
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 5f8956b46e2eb1f9c8d1afe841aef740
+      spriteID: d416ab9529a388792be92dc2e6a9fbd5
       internalID: 2481254919477628994
       vertices: []
       indices: 

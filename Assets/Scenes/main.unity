@@ -412,9 +412,10 @@ GameObject:
   m_Component:
   - component: {fileID: 1150397699}
   - component: {fileID: 1150397698}
-  - component: {fileID: 1150397697}
   - component: {fileID: 1150397696}
   - component: {fileID: 1150397700}
+  - component: {fileID: 1150397701}
+  - component: {fileID: 1150397697}
   m_Layer: 0
   m_Name: test-dog
   m_TagString: Untagged
@@ -456,18 +457,18 @@ BoxCollider2D:
   m_IsTrigger: 0
   m_UsedByEffector: 0
   m_UsedByComposite: 0
-  m_Offset: {x: 0, y: 0}
+  m_Offset: {x: 1.652, y: 0}
   m_SpriteTilingProperty:
     border: {x: 0, y: 0, z: 0, w: 0}
-    pivot: {x: 0.5, y: 0.5}
-    oldSize: {x: 6.48, y: 4.86}
+    pivot: {x: 0, y: 0.5}
+    oldSize: {x: 3.304, y: 3.198}
     newSize: {x: 6.48, y: 4.86}
     adaptiveTilingThreshold: 0.5
     drawMode: 0
     adaptiveTiling: 0
   m_AutoTiling: 0
   serializedVersion: 2
-  m_Size: {x: 6.48, y: 4.86}
+  m_Size: {x: 3.304, y: 3.198}
   m_EdgeRadius: 0
 --- !u!212 &1150397698
 SpriteRenderer:
@@ -508,7 +509,8 @@ SpriteRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
-  m_Sprite: {fileID: 21300000, guid: 8caa63dfdee455acc963d88fe0888e8f, type: 3}
+  m_Sprite: {fileID: 5914052778601943962, guid: be91bce2050e94cc0835dbbe186f1624,
+    type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
@@ -545,6 +547,25 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: cb7407fc0919929d8a93ea69c64f53ea, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+--- !u!95 &1150397701
+Animator:
+  serializedVersion: 3
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1150397695}
+  m_Enabled: 1
+  m_Avatar: {fileID: 0}
+  m_Controller: {fileID: 9100000, guid: f24c8dbc431a8b42d8e4cb97848746ce, type: 2}
+  m_CullingMode: 0
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 0
+  m_LinearVelocityBlending: 0
+  m_WarningMessage: 
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
+  m_KeepAnimatorControllerStateOnDisable: 0
 --- !u!1 &1673229008
 GameObject:
   m_ObjectHideFlags: 0
