@@ -1,0 +1,595 @@
+fileFormatVersion: 2
+guid: 54ab8abb9eb11a83aaac7b8adf0d92e6
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2346488633527427661
+    second: Lonk-Idle_0
+  - first:
+      213: -3913206499201297549
+    second: Lonk-Idle_1
+  - first:
+      213: -5256448709690166331
+    second: Lonk-Idle_2
+  - first:
+      213: -6988974505896516431
+    second: Lonk-Idle_3
+  - first:
+      213: -6749276056840060064
+    second: Lonk-Idle_4
+  - first:
+      213: 952113556591118320
+    second: Lonk-Idle_5
+  - first:
+      213: 7914618307003221652
+    second: Lonk-Idle_6
+  - first:
+      213: 1507446071018623383
+    second: Lonk-Idle_7
+  - first:
+      213: -4242153763451635196
+    second: Lonk-Idle_8
+  - first:
+      213: -6301046654827500796
+    second: Lonk-Idle_9
+  - first:
+      213: -700031444520431002
+    second: Lonk-Idle_10
+  - first:
+      213: -2639210710066252398
+    second: Lonk-Idle_11
+  - first:
+      213: 6304203320186499555
+    second: Lonk-Idle_12
+  - first:
+      213: 6306242736655124355
+    second: Lonk-Idle_13
+  - first:
+      213: -6883123317874344918
+    second: Lonk-Idle_14
+  - first:
+      213: -4524554184073438687
+    second: Lonk-Idle_15
+  - first:
+      213: -952839990699796397
+    second: Lonk-Idle_16
+  - first:
+      213: 7076439870337680283
+    second: Lonk-Idle_17
+  - first:
+      213: 5872187916097182402
+    second: Lonk-Idle_18
+  - first:
+      213: 1193735700180856850
+    second: Lonk-Idle_19
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 500
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Lonk-Idle_0
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 6626
+        width: 1728
+        height: 1444
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf5506485e395fa868594442e64f4dd4
+      internalID: 2346488633527427661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lonk-Idle_1
+      rect:
+        serializedVersion: 2
+        x: 1846
+        y: 6626
+        width: 1728
+        height: 1444
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d978d9bc0bf41dde9ab1d3de4e5f0a70
+      internalID: -3913206499201297549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lonk-Idle_2
+      rect:
+        serializedVersion: 2
+        x: 3690
+        y: 6638
+        width: 1780
+        height: 1464
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2eb3620299c5de74e97e8024ee537024
+      internalID: -5256448709690166331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lonk-Idle_3
+      rect:
+        serializedVersion: 2
+        x: 5547
+        y: 6638
+        width: 1783
+        height: 1464
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76fefe357187bce77845afb7396b9200
+      internalID: -6988974505896516431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lonk-Idle_4
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 5074
+        width: 1780
+        height: 1464
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 625f19c236b3fb90fbe0e40abc9ae9de
+      internalID: -6749276056840060064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lonk-Idle_5
+      rect:
+        serializedVersion: 2
+        x: 1866
+        y: 5118
+        width: 1852
+        height: 1488
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b99450e4b17019eb08bdc7e65b7f4b67
+      internalID: 952113556591118320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lonk-Idle_6
+      rect:
+        serializedVersion: 2
+        x: 3734
+        y: 5118
+        width: 1852
+        height: 1488
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96129921ef5560425ac282caa8f60fd7
+      internalID: 7914618307003221652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lonk-Idle_7
+      rect:
+        serializedVersion: 2
+        x: 5602
+        y: 5118
+        width: 1852
+        height: 1488
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43b99b6a8b38600b99ed4ad585666d3a
+      internalID: 1507446071018623383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lonk-Idle_8
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 3570
+        width: 1852
+        height: 1484
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d292cd9cde8634d4a812e6639356a962
+      internalID: -4242153763451635196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lonk-Idle_9
+      rect:
+        serializedVersion: 2
+        x: 1874
+        y: 3578
+        width: 1920
+        height: 1492
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 685b72e0fa0b5785a9ca45f14a1b21ae
+      internalID: -6301046654827500796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lonk-Idle_10
+      rect:
+        serializedVersion: 2
+        x: 3842
+        y: 3578
+        width: 1920
+        height: 1492
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e2aaa9d7b18fac248ac7269576d7c9e
+      internalID: -700031444520431002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lonk-Idle_11
+      rect:
+        serializedVersion: 2
+        x: 5810
+        y: 3578
+        width: 1920
+        height: 1492
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22cf6f5621b64053c94ffdd9c6dec7a4
+      internalID: -2639210710066252398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lonk-Idle_12
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 2070
+        width: 1920
+        height: 1496
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: def19b8931ba3fe8587d8ece97052514
+      internalID: 6304203320186499555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lonk-Idle_13
+      rect:
+        serializedVersion: 2
+        x: 1974
+        y: 2076
+        width: 1956
+        height: 1490
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c9644111c3fcf204ac5608a580040b7
+      internalID: 6306242736655124355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lonk-Idle_14
+      rect:
+        serializedVersion: 2
+        x: 4006
+        y: 2076
+        width: 1960
+        height: 1490
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d042c394014bbbcaf9834c63ae61f9d6
+      internalID: -6883123317874344918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lonk-Idle_15
+      rect:
+        serializedVersion: 2
+        x: 6042
+        y: 2076
+        width: 1960
+        height: 1490
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81b4b25c99c7144be8aa653a880dbe63
+      internalID: -4524554184073438687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lonk-Idle_16
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 578
+        width: 1956
+        height: 1492
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ce2709abca2d161c96ff00058908086
+      internalID: -952839990699796397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lonk-Idle_17
+      rect:
+        serializedVersion: 2
+        x: 2042
+        y: 610
+        width: 2016
+        height: 1459
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5b69e8f8fd4d570990e9987e2a85f05
+      internalID: 7076439870337680283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lonk-Idle_18
+      rect:
+        serializedVersion: 2
+        x: 4178
+        y: 610
+        width: 2016
+        height: 1459
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e8b5f3eceb1a2e089fa009bc66e8554
+      internalID: 5872187916097182402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lonk-Idle_19
+      rect:
+        serializedVersion: 2
+        x: 6314
+        y: 522
+        width: 1780
+        height: 1464
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ac542b0353df85559acf49e6da36ab6
+      internalID: 1193735700180856850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

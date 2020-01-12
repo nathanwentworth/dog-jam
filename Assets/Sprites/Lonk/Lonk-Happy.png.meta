@@ -1,0 +1,595 @@
+fileFormatVersion: 2
+guid: 170f2b519ed28a5a58ae1f7c63fedbd8
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1190730296296833321
+    second: Lonk-Happy_0
+  - first:
+      213: -5093900741883947934
+    second: Lonk-Happy_1
+  - first:
+      213: -8084272337882838698
+    second: Lonk-Happy_2
+  - first:
+      213: -4925241588880134617
+    second: Lonk-Happy_3
+  - first:
+      213: -5875263044659612658
+    second: Lonk-Happy_4
+  - first:
+      213: 5331312511301878495
+    second: Lonk-Happy_5
+  - first:
+      213: 5093006228653643257
+    second: Lonk-Happy_6
+  - first:
+      213: 1144871301101084144
+    second: Lonk-Happy_7
+  - first:
+      213: 3275374887979842220
+    second: Lonk-Happy_8
+  - first:
+      213: 6672939106417405619
+    second: Lonk-Happy_9
+  - first:
+      213: -5434527877263062543
+    second: Lonk-Happy_10
+  - first:
+      213: -9067942158576255897
+    second: Lonk-Happy_11
+  - first:
+      213: 1029831415543798255
+    second: Lonk-Happy_12
+  - first:
+      213: 8645283672869352120
+    second: Lonk-Happy_13
+  - first:
+      213: -3728662993935500495
+    second: Lonk-Happy_14
+  - first:
+      213: -3992414889004138398
+    second: Lonk-Happy_15
+  - first:
+      213: -7183652850472840676
+    second: Lonk-Happy_16
+  - first:
+      213: 9197195858608505662
+    second: Lonk-Happy_17
+  - first:
+      213: 4381809766858971179
+    second: Lonk-Happy_18
+  - first:
+      213: -4624245530535376831
+    second: Lonk-Happy_19
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 500
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Lonk-Happy_0
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 6658
+        width: 1816
+        height: 1476
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db70449c7b2851f63ba465df2b9bf430
+      internalID: -1190730296296833321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lonk-Happy_1
+      rect:
+        serializedVersion: 2
+        x: 1870
+        y: 6694
+        width: 1864
+        height: 1488
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98f2fdaef580c192d9cd0566c4b7ca81
+      internalID: -5093900741883947934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lonk-Happy_2
+      rect:
+        serializedVersion: 2
+        x: 3739
+        y: 6690
+        width: 1935
+        height: 1496
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bcbc1b0b731b82c38f8bd22f06e6d95
+      internalID: -8084272337882838698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lonk-Happy_3
+      rect:
+        serializedVersion: 2
+        x: 5734
+        y: 6694
+        width: 1864
+        height: 1488
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68011c7becddb4d23bce613d00e8e1d3
+      internalID: -4925241588880134617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lonk-Happy_4
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 5126
+        width: 1816
+        height: 1476
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50ce4e28a34f231fb9fe72591bd108c5
+      internalID: -5875263044659612658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lonk-Happy_5
+      rect:
+        serializedVersion: 2
+        x: 1870
+        y: 5162
+        width: 1864
+        height: 1488
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e651a9facef45f9c8185a53c1f74996
+      internalID: 5331312511301878495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lonk-Happy_6
+      rect:
+        serializedVersion: 2
+        x: 3739
+        y: 5158
+        width: 1935
+        height: 1496
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 892317a92bd2be2a2817b5bba659df17
+      internalID: 5093006228653643257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lonk-Happy_7
+      rect:
+        serializedVersion: 2
+        x: 5734
+        y: 5162
+        width: 1864
+        height: 1488
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3c8b02617bb6799cbe11c9fb229a046
+      internalID: 1144871301101084144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lonk-Happy_8
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 3594
+        width: 1816
+        height: 1476
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e08e5a58e51fd671b1da17837091b7b
+      internalID: 3275374887979842220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lonk-Happy_9
+      rect:
+        serializedVersion: 2
+        x: 1870
+        y: 3630
+        width: 1864
+        height: 1491
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce75649197178b796aba876c219817df
+      internalID: 6672939106417405619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lonk-Happy_10
+      rect:
+        serializedVersion: 2
+        x: 3739
+        y: 3628
+        width: 1935
+        height: 1494
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76853a6d378c4c2869662e181265aa0f
+      internalID: -5434527877263062543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lonk-Happy_11
+      rect:
+        serializedVersion: 2
+        x: 5734
+        y: 3630
+        width: 1864
+        height: 1488
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 338460c30989528949f856a076bccd8a
+      internalID: -9067942158576255897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lonk-Happy_12
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 2062
+        width: 1816
+        height: 1480
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f994596a5c4a0c216a699f43de4e03a7
+      internalID: 1029831415543798255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lonk-Happy_13
+      rect:
+        serializedVersion: 2
+        x: 1870
+        y: 2098
+        width: 1864
+        height: 1492
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58385e67017e41162b302a9972b88446
+      internalID: 8645283672869352120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lonk-Happy_14
+      rect:
+        serializedVersion: 2
+        x: 3739
+        y: 2098
+        width: 1935
+        height: 1492
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 085dbee3a299108fb8ca131797000015
+      internalID: -3728662993935500495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lonk-Happy_15
+      rect:
+        serializedVersion: 2
+        x: 5734
+        y: 2098
+        width: 1864
+        height: 1492
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0897213bcf9b15c79420b930d8e2e86
+      internalID: -3992414889004138398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lonk-Happy_16
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 534
+        width: 1816
+        height: 1476
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83af8056594d4fc7085ded4c3e1050bb
+      internalID: -7183652850472840676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lonk-Happy_17
+      rect:
+        serializedVersion: 2
+        x: 1870
+        y: 570
+        width: 1864
+        height: 1488
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 185fef9975ac4734ca7663170fa7fa2e
+      internalID: 9197195858608505662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lonk-Happy_18
+      rect:
+        serializedVersion: 2
+        x: 3739
+        y: 566
+        width: 1935
+        height: 1496
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d9c39c8e6c80596fa98d9ba61e1c723
+      internalID: 4381809766858971179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lonk-Happy_19
+      rect:
+        serializedVersion: 2
+        x: 5734
+        y: 570
+        width: 1864
+        height: 1488
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 184c3b0250f0d6dc6b13cfa81d202a85
+      internalID: -4624245530535376831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

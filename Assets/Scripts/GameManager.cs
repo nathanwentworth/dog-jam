@@ -35,16 +35,18 @@ public class GameManager : Singleton<GameManager>
 
     void TrySpawnDog() {
         int flooredDogTimer = Mathf.FloorToInt(dogSpawnTimer);
-        if (flooredDogTimer > 1 && flooredDogTimer % 30 == 0) {
+        if (flooredDogTimer > 30) {
             int randomDogInt = Random.Range(0, dogs.Count);
             var dog = dogs[randomDogInt];
-            GameObject.Instantiate(dog, RandomInitialSpawn(), Quaternion.identity);
-            dogSpawnTimer = 0f;
+            if (dog) {
+                GameObject.Instantiate(dog, RandomInitialSpawn(), Quaternion.identity);
+                dogSpawnTimer = 0f;
+            }
         }
     }
 
     void UpdateHud(int toDisplay) {
-        textDisplay.text = "points: " + toDisplay;
+        textDisplay.text = "pet dog: " + toDisplay;
     }
 
     public Vector2 RandomInitialSpawn() {
