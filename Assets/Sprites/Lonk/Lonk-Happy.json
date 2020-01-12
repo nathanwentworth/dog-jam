@@ -1,0 +1,171 @@
+﻿{"frames": {
+
+"Lonk0000":
+{
+	"frame": {"x":10,"y":10,"w":1856,"h":1521},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":1984,"h":1521},
+	"sourceSize": {"w":1984,"h":1521}
+},
+"Lonk0001":
+{
+	"frame": {"x":1876,"y":10,"w":1859,"h":1485},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":36,"w":1984,"h":1521},
+	"sourceSize": {"w":1984,"h":1521}
+},
+"Lonk0002":
+{
+	"frame": {"x":3745,"y":10,"w":1984,"h":1487},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":34,"w":1984,"h":1521},
+	"sourceSize": {"w":1984,"h":1521}
+},
+"Lonk0003":
+{
+	"frame": {"x":5739,"y":10,"w":1859,"h":1485},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":36,"w":1984,"h":1521},
+	"sourceSize": {"w":1984,"h":1521}
+},
+"Lonk0004":
+{
+	"frame": {"x":10,"y":1541,"w":1856,"h":1521},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":1984,"h":1521},
+	"sourceSize": {"w":1984,"h":1521}
+},
+"Lonk0005":
+{
+	"frame": {"x":1876,"y":1541,"w":1859,"h":1485},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":36,"w":1984,"h":1521},
+	"sourceSize": {"w":1984,"h":1521}
+},
+"Lonk0006":
+{
+	"frame": {"x":3745,"y":1541,"w":1984,"h":1487},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":34,"w":1984,"h":1521},
+	"sourceSize": {"w":1984,"h":1521}
+},
+"Lonk0007":
+{
+	"frame": {"x":5739,"y":1541,"w":1859,"h":1485},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":36,"w":1984,"h":1521},
+	"sourceSize": {"w":1984,"h":1521}
+},
+"Lonk0008":
+{
+	"frame": {"x":10,"y":3072,"w":1856,"h":1521},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":1984,"h":1521},
+	"sourceSize": {"w":1984,"h":1521}
+},
+"Lonk0009":
+{
+	"frame": {"x":1876,"y":3072,"w":1859,"h":1485},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":36,"w":1984,"h":1521},
+	"sourceSize": {"w":1984,"h":1521}
+},
+"Lonk0010":
+{
+	"frame": {"x":3745,"y":3072,"w":1984,"h":1487},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":34,"w":1984,"h":1521},
+	"sourceSize": {"w":1984,"h":1521}
+},
+"Lonk0011":
+{
+	"frame": {"x":5739,"y":3072,"w":1859,"h":1485},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":36,"w":1984,"h":1521},
+	"sourceSize": {"w":1984,"h":1521}
+},
+"Lonk0012":
+{
+	"frame": {"x":10,"y":4603,"w":1856,"h":1521},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":1984,"h":1521},
+	"sourceSize": {"w":1984,"h":1521}
+},
+"Lonk0013":
+{
+	"frame": {"x":1876,"y":4603,"w":1859,"h":1485},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":36,"w":1984,"h":1521},
+	"sourceSize": {"w":1984,"h":1521}
+},
+"Lonk0014":
+{
+	"frame": {"x":3745,"y":4603,"w":1984,"h":1487},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":34,"w":1984,"h":1521},
+	"sourceSize": {"w":1984,"h":1521}
+},
+"Lonk0015":
+{
+	"frame": {"x":5739,"y":4603,"w":1859,"h":1485},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":36,"w":1984,"h":1521},
+	"sourceSize": {"w":1984,"h":1521}
+},
+"Lonk0016":
+{
+	"frame": {"x":10,"y":6134,"w":1856,"h":1521},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":1984,"h":1521},
+	"sourceSize": {"w":1984,"h":1521}
+},
+"Lonk0017":
+{
+	"frame": {"x":1876,"y":6134,"w":1859,"h":1485},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":36,"w":1984,"h":1521},
+	"sourceSize": {"w":1984,"h":1521}
+},
+"Lonk0018":
+{
+	"frame": {"x":3745,"y":6134,"w":1984,"h":1487},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":34,"w":1984,"h":1521},
+	"sourceSize": {"w":1984,"h":1521}
+},
+"Lonk0019":
+{
+	"frame": {"x":5739,"y":6134,"w":1859,"h":1485},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":36,"w":1984,"h":1521},
+	"sourceSize": {"w":1984,"h":1521}
+}},
+"meta": {
+	"app": "Adobe Animate",
+	"version": "20.0.1.19255",
+	"image": "Lonk-Happy.png",
+	"format": "RGBA8888",
+	"size": {"w":8192,"h":8192},
+	"scale": "1"
+}
+}
