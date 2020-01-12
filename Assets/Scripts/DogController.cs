@@ -9,15 +9,30 @@ public class DogController : MonoBehaviour
     bool mouseDown = false;
     Animator animator;
 
+    Vector3 destination;
+
     void Start() {
         animator = GetComponent<Animator>();
+        transform.position = GameManager.Instance.RandomInitialSpawn();
     }
     void Update() {
 
+        float destinationDistance = Vector2.Distance(transform.position, destination);
+        if (destinationDistance > 1f) {
+            transform.position = Vector2.MoveTowards(transform.position, destination, 0.01f);
+            // Debug.Log("moving towards destination, distance remaining: " + destinationDistance);
+        } else {
+            destination = GameManager.Instance.RandomDestination();
+            // Debug.Log("destination reached, new destination: " + destination);
+        }
+
+
+        transform.position = new Vector3(transform.position.x, transform.position.y, transform.position.y);
     }
 
     private void OnMouseDown() {
         mouseDown = true;
+        IncreasePoints(1f);
     }
 
     /// <summary>
@@ -34,10 +49,16 @@ public class DogController : MonoBehaviour
     /// </summary>
     void OnMouseOver() {
         if (mouseDown) {
-            timeHeld += Time.deltaTime;
+            IncreasePoints(Time.deltaTime);
             animator.SetBool("beingPet", true);
             Debug.Log("oh we draggin' " + timeHeld);
         }
+    }
+
+    void IncreasePoints(float amount) {
+        timeHeld += amount;
+        GameManager.Instance.IncreaseHeldTime(amount);
+
     }
 
     /// <summary>

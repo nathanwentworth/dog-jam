@@ -41,3 +41,9 @@ TagManager:
   - name: Default
     uniqueID: 0
     locked: 0
+  - name: background
+    uniqueID: 955874359
+    locked: 0
+  - name: dogs
+    uniqueID: 2947896847
+    locked: 0
