@@ -1,7 +1,55 @@
 fileFormatVersion: 2
 guid: 5ffd229e62aed73088f578646226d9ba
 TextureImporter:
-  internalIDToNameTable: []
+  internalIDToNameTable:
+  - first:
+      213: 6063551530925555084
+    second: ChonkAnim-Idle_0
+  - first:
+      213: 5237348852998163004
+    second: ChonkAnim-Idle_1
+  - first:
+      213: 1775521031467669558
+    second: ChonkAnim-Idle_2
+  - first:
+      213: -8416271420168682866
+    second: ChonkAnim-Idle_3
+  - first:
+      213: 3060850032451374858
+    second: ChonkAnim-Idle_4
+  - first:
+      213: 6348372357695321427
+    second: ChonkAnim-Idle_5
+  - first:
+      213: 8249030199813045374
+    second: ChonkAnim-Idle_6
+  - first:
+      213: 6967837056980381013
+    second: ChonkAnim-Idle_7
+  - first:
+      213: -4763510421208535032
+    second: ChonkAnim-Idle_8
+  - first:
+      213: -6825870319024943587
+    second: ChonkAnim-Idle_9
+  - first:
+      213: 4426718766951452885
+    second: ChonkAnim-Idle_10
+  - first:
+      213: -91491687685719490
+    second: ChonkAnim-Idle_11
+  - first:
+      213: -7902119813195325480
+    second: ChonkAnim-Idle_12
+  - first:
+      213: -4417763492795172228
+    second: ChonkAnim-Idle_13
+  - first:
+      213: 2637126167434413531
+    second: ChonkAnim-Idle_14
+  - first:
+      213: -1607390446599820375
+    second: ChonkAnim-Idle_15
   externalObjects: {}
   serializedVersion: 10
   mipmaps:
@@ -40,12 +88,12 @@ TextureImporter:
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 1
+  spriteMode: 2
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 100
+  spritePixelsToUnits: 400
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -70,9 +118,369 @@ TextureImporter:
     overridden: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
-    sprites: []
+    sprites:
+    - serializedVersion: 2
+      name: ChonkAnim-Idle_0
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 6822
+        width: 1420
+        height: 1324
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7470bca6c99702d19a6b9bea65213d3
+      internalID: 6063551530925555084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChonkAnim-Idle_1
+      rect:
+        serializedVersion: 2
+        x: 1542
+        y: 6822
+        width: 1460
+        height: 1324
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2159d021c37fa2cfa83c3dccf85bd787
+      internalID: 5237348852998163004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChonkAnim-Idle_2
+      rect:
+        serializedVersion: 2
+        x: 3066
+        y: 6822
+        width: 1496
+        height: 1324
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79a16a6086e9e9da283d70ff0e0d34a6
+      internalID: 1775521031467669558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChonkAnim-Idle_3
+      rect:
+        serializedVersion: 2
+        x: 4590
+        y: 6822
+        width: 1492
+        height: 1324
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9d070c5ba5b3350c8bef64c137efd0b
+      internalID: -8416271420168682866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChonkAnim-Idle_4
+      rect:
+        serializedVersion: 2
+        x: 6110
+        y: 6822
+        width: 1516
+        height: 1324
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25f70d4de8616dc4397ae57f6a037f8b
+      internalID: 3060850032451374858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChonkAnim-Idle_5
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 5458
+        width: 1524
+        height: 1324
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 502ea8fec1bf4131290a0711ad0d3001
+      internalID: 6348372357695321427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChonkAnim-Idle_6
+      rect:
+        serializedVersion: 2
+        x: 1626
+        y: 5458
+        width: 1516
+        height: 1324
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5128128a610495c1fb10fb8823594368
+      internalID: 8249030199813045374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChonkAnim-Idle_7
+      rect:
+        serializedVersion: 2
+        x: 3194
+        y: 5458
+        width: 1516
+        height: 1324
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bce91a229733e24fab46ee4805ce156a
+      internalID: 6967837056980381013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChonkAnim-Idle_8
+      rect:
+        serializedVersion: 2
+        x: 4762
+        y: 5458
+        width: 1420
+        height: 1324
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79968288016381d0dba462af58a0c33d
+      internalID: -4763510421208535032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChonkAnim-Idle_9
+      rect:
+        serializedVersion: 2
+        x: 6274
+        y: 5458
+        width: 1460
+        height: 1324
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a5a3981018b7f4d1917e4c1ff8351f2
+      internalID: -6825870319024943587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChonkAnim-Idle_10
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 4094
+        width: 1492
+        height: 1324
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c360e2aa15c1073c79d3fdca3ba3b8a2
+      internalID: 4426718766951452885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChonkAnim-Idle_11
+      rect:
+        serializedVersion: 2
+        x: 1554
+        y: 4094
+        width: 1492
+        height: 1324
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 836ce40f4fedf93b59a7df6ebda90d59
+      internalID: -91491687685719490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChonkAnim-Idle_12
+      rect:
+        serializedVersion: 2
+        x: 3078
+        y: 4094
+        width: 1512
+        height: 1324
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f51f92310b5ec0e56b11c235a4f5b324
+      internalID: -7902119813195325480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChonkAnim-Idle_13
+      rect:
+        serializedVersion: 2
+        x: 4646
+        y: 4094
+        width: 1524
+        height: 1324
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5df4ce165abcd72abebe441672771c8
+      internalID: -4417763492795172228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChonkAnim-Idle_14
+      rect:
+        serializedVersion: 2
+        x: 6238
+        y: 4094
+        width: 1516
+        height: 1324
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a886005b67a7cc77b91a6161d25e5a12
+      internalID: 2637126167434413531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChonkAnim-Idle_15
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 2730
+        width: 1512
+        height: 1323
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bad97579dfa5c5384bf23e0280a216e2
+      internalID: -1607390446599820375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     physicsShape: []
     bones: []

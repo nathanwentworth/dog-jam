@@ -1,7 +1,55 @@
 fileFormatVersion: 2
 guid: 542607cb6759bc9b4bee7ac1dd7a606c
 TextureImporter:
-  internalIDToNameTable: []
+  internalIDToNameTable:
+  - first:
+      213: 5831402523969037149
+    second: ChonkAnim-Happy_0
+  - first:
+      213: 7607176069336037215
+    second: ChonkAnim-Happy_1
+  - first:
+      213: -787821027622427446
+    second: ChonkAnim-Happy_2
+  - first:
+      213: 3568299450488876942
+    second: ChonkAnim-Happy_3
+  - first:
+      213: 923919191630567483
+    second: ChonkAnim-Happy_4
+  - first:
+      213: 2019857709510592685
+    second: ChonkAnim-Happy_5
+  - first:
+      213: -4994242562630051182
+    second: ChonkAnim-Happy_6
+  - first:
+      213: -1247175402961937443
+    second: ChonkAnim-Happy_7
+  - first:
+      213: 1081426251654968246
+    second: ChonkAnim-Happy_8
+  - first:
+      213: 5844031935242701753
+    second: ChonkAnim-Happy_9
+  - first:
+      213: -4519240507712769681
+    second: ChonkAnim-Happy_10
+  - first:
+      213: 6962980462498317826
+    second: ChonkAnim-Happy_11
+  - first:
+      213: 7463051498161987890
+    second: ChonkAnim-Happy_12
+  - first:
+      213: 5094800266650956910
+    second: ChonkAnim-Happy_13
+  - first:
+      213: 3209119857119022009
+    second: ChonkAnim-Happy_14
+  - first:
+      213: -1206764010158940366
+    second: ChonkAnim-Happy_15
   externalObjects: {}
   serializedVersion: 10
   mipmaps:
@@ -40,12 +88,12 @@ TextureImporter:
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 1
+  spriteMode: 2
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 100
+  spritePixelsToUnits: 400
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -70,9 +118,369 @@ TextureImporter:
     overridden: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
-    sprites: []
+    sprites:
+    - serializedVersion: 2
+      name: ChonkAnim-Happy_0
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 6822
+        width: 1420
+        height: 1324
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ba5ad9961a3fa204993a8d11e069edc
+      internalID: 5831402523969037149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChonkAnim-Happy_1
+      rect:
+        serializedVersion: 2
+        x: 1542
+        y: 6822
+        width: 1460
+        height: 1324
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7ceda6873909adff89c3a1b2395bc73
+      internalID: 7607176069336037215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChonkAnim-Happy_2
+      rect:
+        serializedVersion: 2
+        x: 3066
+        y: 6822
+        width: 1496
+        height: 1324
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ad8ceed2f7c9bb6bb499f4cfd74699a
+      internalID: -787821027622427446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChonkAnim-Happy_3
+      rect:
+        serializedVersion: 2
+        x: 4590
+        y: 6822
+        width: 1492
+        height: 1324
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1861da31155ce86b7b3cadebcc3c965a
+      internalID: 3568299450488876942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChonkAnim-Happy_4
+      rect:
+        serializedVersion: 2
+        x: 6110
+        y: 6822
+        width: 1516
+        height: 1324
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef0db0ed3222f6e12ab96c675514a5d9
+      internalID: 923919191630567483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChonkAnim-Happy_5
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 5458
+        width: 1524
+        height: 1324
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02ef65d1399bf4a73b424183d0a9b077
+      internalID: 2019857709510592685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChonkAnim-Happy_6
+      rect:
+        serializedVersion: 2
+        x: 1626
+        y: 5458
+        width: 1516
+        height: 1324
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23dc60dd024728adfb2ea2345e3cad86
+      internalID: -4994242562630051182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChonkAnim-Happy_7
+      rect:
+        serializedVersion: 2
+        x: 3194
+        y: 5458
+        width: 1516
+        height: 1324
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19cfe538eabb4ba4d91999e5044b2e0e
+      internalID: -1247175402961937443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChonkAnim-Happy_8
+      rect:
+        serializedVersion: 2
+        x: 4762
+        y: 5458
+        width: 1420
+        height: 1324
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b66c249956daab7885bd29e91c589c1
+      internalID: 1081426251654968246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChonkAnim-Happy_9
+      rect:
+        serializedVersion: 2
+        x: 6274
+        y: 5458
+        width: 1460
+        height: 1324
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d98e67be4b3f346c18d9442448972ec9
+      internalID: 5844031935242701753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChonkAnim-Happy_10
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 4094
+        width: 1492
+        height: 1324
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5885c80c37dcb891695f34f73ad82e0f
+      internalID: -4519240507712769681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChonkAnim-Happy_11
+      rect:
+        serializedVersion: 2
+        x: 1554
+        y: 4094
+        width: 1492
+        height: 1324
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4ba8025d241fa51b8cb02579d8ab419
+      internalID: 6962980462498317826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChonkAnim-Happy_12
+      rect:
+        serializedVersion: 2
+        x: 3078
+        y: 4094
+        width: 1512
+        height: 1324
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1431e0681d17d6be39a4fdb91d43e175
+      internalID: 7463051498161987890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChonkAnim-Happy_13
+      rect:
+        serializedVersion: 2
+        x: 4646
+        y: 4094
+        width: 1524
+        height: 1324
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 861bc71af6fbf112d86e1f04efaefe6e
+      internalID: 5094800266650956910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChonkAnim-Happy_14
+      rect:
+        serializedVersion: 2
+        x: 6238
+        y: 4094
+        width: 1516
+        height: 1324
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab0fc52a957c46e76938e61bf573f482
+      internalID: 3209119857119022009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChonkAnim-Happy_15
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 2730
+        width: 1512
+        height: 1323
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccbc3dd602795d53fb0d260f3a4f6c1a
+      internalID: -1206764010158940366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     physicsShape: []
     bones: []
